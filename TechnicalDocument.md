@@ -84,8 +84,7 @@ Welcome to the Sustainbeat project! As we embark on this exciting journey, our g
 ## Collaboration and Reporting
 
 - Regular team meetings: Bi-weekly
-- Project Tracking Tool: Jira/Asana
-- Version Control: Git, GitHub/GitLab
+- Version Control: GitHub
 - Continuous Integration/Continuous Deployment (CI/CD) Practices
 
 ## Conclusion
