@@ -92,16 +92,7 @@ Welcome to the Sustainbeat project! As we embark on this exciting journey, our g
 
 This document is intended to serve as the initial guideline for the Sustainbeat development team. Adherence to the outlined specifications and milestones is crucial for the timely and successful completion of the project. Your expertise and collaboration are highly valued in making Sustainbeat a model for sustainable and cooperative music streaming platforms.
 
-### Acknowledgments
 
-[Team Member Names]
-
-### Approval
-
-[Your Name] - Project Manager
-[Approver's Name] - [Their Title]
-
-### Document History
 
 [Version History and Revision Notes]
 
