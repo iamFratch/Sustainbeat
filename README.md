@@ -51,7 +51,3 @@ SustainaBeat caters to a young and socially conscious audience passionate about 
 
 Join us in revolutionizing the music streaming industry while fostering sustainability and supporting emerging artists. Be part of the SustainaBeat community!
 
-## Contact Us
-
-For inquiries and collaborations, please contact [Your Email Address].
-
